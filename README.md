@@ -1,4 +1,4 @@
-## Tiny-Compiler ##
+# Tiny-Compiler 
 
 # To run the compiler as well as the language you need to do the following:
 Download TWS.zip 
