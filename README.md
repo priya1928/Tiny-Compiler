@@ -1,17 +1,17 @@
-# Tiny-Compiler 
+## Tiny-Compiler 
 
 ### To run the compiler as well as the language you need to do the following:
-Download TWS.zip 
+Download TWS.zip.
 Unzip it to a directory.
 Open teminal(mac or linux, does not support windows).
 Go to your directory.
 Go to tws/.
-Run make
-Go to tws/tiny and run make 
-Run command chmod +x tc(you don't need to do it if tc is already executable)
+Run make.
+Go to tws/tiny and run make. 
+Run command chmod +x tc(you don't need to do it if tc is already executable).
 And you are good to go!
 
-### Some sample tiny programs are there in tests folder as well as some complex test cases in test-progs folder
+### Some sample tiny programs are there in tests folder as well as some complex test cases in test-progs folder.
 
 ### To run these test cases you need:
 Go to tiny directory.
